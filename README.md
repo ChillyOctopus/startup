@@ -1,7 +1,40 @@
 # startup
 
-From VS:
-ok so this was pretty tricky to figure out. I have a ways to go, but you commit changes you want from where you made them (after saving them in your file system), then try to push them. If you aren't in github, you can pull from github the current version. If the versions are different on the same line, you work merge conflict, and can then push it back up merged. So I'm trying it again with this comment.
-From Github:
-Ok I think I learned something new about push and pull, lets see what I can see.
-Merger Note: I did it! Hope I don't forget it tomorrow.
+"Hey Jordan, remember that assassin game we would always play?"
+
+"You mean the one from middle and high school where we "killed" eachother with plastic spoons?"
+
+"Yeah, remember that time Jacob hid out in your car for 16 hours waiting for you?? It was always 
+so tricky to know who was dead, who was alive, and who was targeting who, ect."
+
+"That was crazy. It's always crazy... You know Joseph, we could make an app to keep track of that."
+
+"What do you mean? Do you know how to do that??"
+
+"Well, sort of. I'm going to be learning how to do it in my C.S. class."
+
+"Which C.S. class, you are taking like 8 this semester."
+
+"Nevermind - here's my idea:
+An app that can keep track of the kills for people in this game. You could sign up for public matches,
+and when you reach a certain number of people, the game is on. This app would allow you to keep a general
+scoreboard of all the players, give a targetboard of who is targeting who, split the pot automatically,
+and more!"
+
+"Woah Jordan, that seems kind of crazy. But people can't know who is trying to kill them - that's part of
+the fun.
+
+"Okok here is the solution, everyone has a codename right? And you are the only one who knows your own
+codename. The target board would look like "Codename targets Realname". That way, everyone knows who 
+they are targeting, but no one knows who is targeting them!"
+
+"That's a pretty good idea... And you would update the app based on who killed who?"
+
+"Sort of. The app would update itself. I have a simple formula for that, but we could totally do it,
+I don't think it would be too hard."
+
+"Sweet, when can we get started?"
+
+"Well Joseph, it depends on the TA's. They have to approve my project before we start, but it's going 
+to be sweet. We can hook all of our friends on it too. My little sister just started a game, and maybe
+I can finish it time for her next one."
