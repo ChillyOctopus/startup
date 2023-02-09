@@ -1,5 +1,11 @@
 # startup
 
+Readonly is useful for just that in HTML. &infin; is the escape sequence for infinity. A menu is specifically interactive! Variables start with <var>, but not sure how to use them yet. Titles and headers are outlined in pink in the vim interface, so that makes it quick to find them. Remember that href links the text after.
+
+
+
+
+
 "Hey Jordan, remember that assassin game we would always play?"
 
 "You mean the one from middle and high school where we "killed" eachother with plastic spoons?"
