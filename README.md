@@ -1,14 +1,14 @@
 # startup
 
+Elements are useful, as well as id selectors. Classes are used to generalize, and you can use the window size to show or hide elements. Then you can transfer the data across. Flex is flexible to use, and lends a professional and stylish look to your website, even though the code does most of the hardwork for you.
+
 Selectors are cool - it's called cascading for a reason, specifying hover for everything will lose in a fist fight against an id hover - transform is your friend in animation, but you can do cooler stuff with JS - don't forget your positions or how your shapes were colored in the first place.
 
 
 Readonly is useful for just that in HTML. "&infin" with a semicolon at the end is the escape sequence for infinity. A menu is specifically interactive! Variables start with "var" surrounded by brackets, but not sure how to use them yet. Titles and headers are outlined in pink in the vim interface, so that makes it quick to find them. Remember that href links the text after.
 
 
-
-
-
+Startup:
 "Hey Jordan, remember that assassin game we would always play?"
 
 "You mean the one from middle and high school where we "killed" eachother with plastic spoons?"
