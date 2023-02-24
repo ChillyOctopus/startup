@@ -1,5 +1,7 @@
 # startup
 
+There is a very specific differenc between the in and of special for loops in javascript. It took me a sec to get it right. Also, the arrow functions are tricky, I hope to understand them more as I go along. It is basically just a typing shortcut is what it looks like. A default constructor inside the object helps you initialize the variables you are going to use inside it. Javascript is weakly typed, which is crazy and it feels insecure in a way, but I imagine it's also pretty flexible.
+
 Elements are useful, as well as id selectors. Classes are used to generalize, and you can use the window size to show or hide elements. Then you can transfer the data across. Flex is flexible to use, and lends a professional and stylish look to your website, even though the code does most of the hardwork for you.
 
 Selectors are cool - it's called cascading for a reason, specifying hover for everything will lose in a fist fight against an id hover - transform is your friend in animation, but you can do cooler stuff with JS - don't forget your positions or how your shapes were colored in the first place.
