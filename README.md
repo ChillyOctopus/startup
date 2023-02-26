@@ -1,5 +1,13 @@
 # startup
 
+Try-catch blocks are pretty standard, so using them is important. You want a controlled stoppage, not a program crash.
+
+Pulling specific peices from objects (destructuring, not destructing) is also useful for when you need to do certain things with them. Using Regex can help you sort through things like that if you need.
+
+Rest and spread are really helpful for using in functions. Remember how to format it, and the "..." is important.
+
+Regex expressions are used for comparing and pattern matching, that is not a /gim at the end in the sense of the word, 'g', 'i' and 'm' are in fact keyletters at the end. 
+
 There is a very specific differenc between the in and of special for loops in javascript. It took me a sec to get it right. Also, the arrow functions are tricky, I hope to understand them more as I go along. It is basically just a typing shortcut is what it looks like. A default constructor inside the object helps you initialize the variables you are going to use inside it. Javascript is weakly typed, which is crazy and it feels insecure in a way, but I imagine it's also pretty flexible.
 
 Elements are useful, as well as id selectors. Classes are used to generalize, and you can use the window size to show or hide elements. Then you can transfer the data across. Flex is flexible to use, and lends a professional and stylish look to your website, even though the code does most of the hardwork for you.
