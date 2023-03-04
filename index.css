@@ -1,0 +1,94 @@
+  * {
+        margin: 1em;
+        box-sizing: border-box;
+        font-family: Arial, sans-serif;
+      }
+
+      body{
+        background-size: 831px 650px;
+        background-image: url("https://raw.githubusercontent.com/ChillyOctopus/startup/main/TrueKnife.png");
+      }
+
+
+      html {
+        height: 100%;
+      }
+
+      body {
+        justify-content: center;
+        height: 100%;
+      }
+
+      table {
+        background-color: #f2f2f2;
+        width: auto;
+        margin-left:auto;
+        margin-right:auto;
+        margin-bottom:100px;
+        }
+
+      table, td, th {
+        border: 1px solid black;
+        font-size: 25px;
+        text-align: center;
+        padding: 5px;
+      }
+
+      #outer {
+        width: 100%;
+        text-align: center;
+        .option {
+           display: inline-block;
+         }
+      }
+       
+      #caption {
+        margin: 0px;
+        padding: 10px;
+        background-color: #426DCF;
+      }
+
+      .mybtn {
+        font-weight: bold;
+        color: black;
+        background-color: #2FC5C5;
+        width: 175px;
+        height: 40px;
+      }
+
+      #report {
+        width: 190px;
+        height: 45px;
+      }
+
+      #uNameGather, #pWordGather {
+        width: 15%;
+        height: 10%;
+        display: flex;
+        color: #666;
+      }
+
+
+      #intro {
+        width:auto;
+        display: flex;
+        align-self: center;
+        height: 10%;
+        color: black;
+        font-size: 50px;
+        margin-bottom: 10px;
+        margin-left: 260px;
+        margin-right: auto;
+      }
+
+      #login {
+        margin-left: 29px;
+        margin-top: 0px;
+      }
+
+      #user-pass{
+        margin-bottom: 10px;
+      }
+
+
+        
