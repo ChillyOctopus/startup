@@ -1,5 +1,7 @@
 # startup
 
+I think the javascript was super useful - The login for js was surprisingly short! I never realized how easy it would be to access the browser like that, using localStorage.getItem. I thought the single responsibility principle was really well followed in the function implementations. I never knew safari was a pain, and I got to see promises more involved in a real application.
+
 Try-catch blocks are pretty standard, so using them is important. You want a controlled stoppage, not a program crash.
 
 Pulling specific peices from objects (destructuring, not destructing) is also useful for when you need to do certain things with them. Using Regex can help you sort through things like that if you need.
